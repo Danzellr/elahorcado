@@ -38,6 +38,6 @@
    ```bash
    git clone https://github.com/Danzellr/elahorcado.git
              
-2. Clona este repositorio:
+2. Viita este proyecto:
    ```bash
    https://danzellr.github.io/elahorcado/
