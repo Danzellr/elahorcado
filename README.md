@@ -36,4 +36,5 @@
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/juego-del-ahorcado.git
+   git clone https://github.com/Danzellr/elahorcado.git
+             
